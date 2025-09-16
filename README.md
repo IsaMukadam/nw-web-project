@@ -1,9 +1,6 @@
-# nw-web-project
-A web project which demonstrates my ability to set up a CI/CD pipeline in AWS for a Java web application.
+# nw-web-project-ci-cd-pipeline
 
-# My Web App Cloud Journey
-
-This project documents my journey of building and deploying a web application in the cloud using AWS and GitHub.  
+This project documents my journey of building a CI/CD pipeline and deploying a Java web application in the cloud using AWS and GitHub.  
 
 ## What I Did
 
