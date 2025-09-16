@@ -1,4 +1,4 @@
-# nw-web-project-ci-cd-pipeline
+# Java Web Application with CI/CD Pipeline
 
 This project documents my journey of building a CI/CD pipeline and deploying a Java web application in the cloud using AWS and GitHub. It covers setting up the app, managing dependencies, packaging, deploying, and automating CI/CD pipelines.
 
